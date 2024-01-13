@@ -325,7 +325,7 @@ background:linear-gradient(76deg, #b01a0f, #ff2f20, #b01a0f);
 border-radius:5px;
 }
  
-@media screen and (min-width:380px) and (max-width:780px){
+@media screen and (min-width:172px) and (max-width:780px){
 
 .container-box{
 display:none;
